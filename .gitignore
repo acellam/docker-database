@@ -1,0 +1,8 @@
+composer.lock
+db_dump
+.idea
+
+.env
+npm-debug.log
+
+*.swp
